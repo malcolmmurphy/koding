@@ -1,6 +1,11 @@
 Koding Hackathon Submission
 ======
 
+---
+*Dec 15, 14:10 UTC*
+Still have yet to complete this page (wasn't expecting to go past round one)... Going to sleep now but please check back, should have a detailed update by this time tomorrow. Thank you!
+---
+
 (will complete description once I get some sleep and catch up on work)
 
 One quick note on the off chance that this is viewed in the meantime... I wasn't sure if this repo was supposed to contain the entire app or just our work. I used CakePHP so there's a mix of default files in here (but not the full Cake library). Primarily my work is in:
